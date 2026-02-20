@@ -11,6 +11,6 @@ public class KawasakiTest {
 		WebDriver driver=new ChromeDriver();
 		
 		driver.get("https://www.kawasaki-india.com/");
-		Reporter.log("Kawasaki launched",true);
+		Reporter.log("Kawasaki",true);
 	}
 }
