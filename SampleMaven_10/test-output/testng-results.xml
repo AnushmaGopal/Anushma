@@ -4,26 +4,20 @@
     <line>
       <![CDATA[Bajaj launched successfully]]>
     </line>
-    <line>
-      <![CDATA[Bajaj launched successfully]]>
-    </line>
   </reporter-output>
-  <suite started-at="2026-02-20T19:31:29 IST" name="Default suite" finished-at="2026-02-20T19:31:36 IST" duration-ms="7423">
+  <suite started-at="2026-02-21T17:51:12 IST" name="Default suite" finished-at="2026-02-21T17:51:14 IST" duration-ms="2386">
     <groups>
     </groups>
-    <test started-at="2026-02-20T19:31:29 IST" name="Default test" finished-at="2026-02-20T19:31:36 IST" duration-ms="7423">
-      <class name="bikes.BajajTest">
-        <test-method signature="launch()[pri:0, instance:bikes.BajajTest@8f4ea7c]" started-at="2026-02-20T19:31:29 IST" name="launch" finished-at="2026-02-20T19:31:36 IST" duration-ms="7369" status="PASS">
+    <test started-at="2026-02-21T17:51:12 IST" name="Default test" finished-at="2026-02-21T17:51:14 IST" duration-ms="2386">
+      <class name="bikes.Crm">
+        <test-method signature="crm()[pri:0, instance:bikes.Crm@131774fe]" started-at="2026-02-21T17:51:12 IST" name="crm" finished-at="2026-02-21T17:51:14 IST" duration-ms="2352" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Bajaj launched successfully]]>
             </line>
-            <line>
-              <![CDATA[Bajaj launched successfully]]>
-            </line>
           </reporter-output>
-        </test-method> <!-- launch -->
-      </class> <!-- bikes.BajajTest -->
+        </test-method> <!-- crm -->
+      </class> <!-- bikes.Crm -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

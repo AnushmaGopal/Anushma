@@ -8,16 +8,6 @@
           <include name="launch"/>
         </methods>
       </class> <!-- demo.MavenParameterTest -->
-      <class name="bikes.BajajTest">
-        <methods>
-          <include name="launch"/>
-        </methods>
-      </class> <!-- bikes.BajajTest -->
-      <class name="bikes.YamahaTest">
-        <methods>
-          <include name="launch"/>
-        </methods>
-      </class> <!-- bikes.YamahaTest -->
     </classes>
   </test> <!-- Surefire test(failed) -->
 </suite> <!-- Failed suite [Surefire suite] -->
