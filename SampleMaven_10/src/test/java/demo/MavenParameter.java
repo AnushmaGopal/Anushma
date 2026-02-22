@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Reporter;
 import org.testng.annotations.Test;
 
-public class MavenParameterTest {
+public class MavenParameter {
 	@Test
 	public void launch() {
 		String url = System.getProperty("url");
